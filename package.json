@@ -12,5 +12,14 @@
   "license": "ISC",
   "devDependencies": {
     "lite-server": "^2.3.0"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TVasileiou/Front-End-Web-UI-Frameworks-and-Tools.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TVasileiou/Front-End-Web-UI-Frameworks-and-Tools/issues"
+  },
+  "homepage": "https://github.com/TVasileiou/Front-End-Web-UI-Frameworks-and-Tools#readme"
 }
