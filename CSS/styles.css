@@ -37,3 +37,23 @@ body{
 .navbar-dark {
      background-color: #512DA8;
 }
+
+#radioHeader {
+    background-color: orange;
+}
+
+#ResBtn {
+    background-color: rgb(238, 188, 94);
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+.tab-content {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+}
