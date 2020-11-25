@@ -75,3 +75,18 @@ body{
     z-index: 1;
 }
 
+.modal-header {
+    background-color: $background-dark;
+    color:floralwhite;
+        .close {
+            color: floralwhite;
+        }
+}
+
+.modal-content {
+    background-color: $background-pale;
+}
+
+.card {
+    background-color: $background-pale;
+}
